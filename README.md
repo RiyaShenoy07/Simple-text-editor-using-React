@@ -17,7 +17,6 @@ Great for beginners to practice basics of React.
 
 ## Installation 
 git clone 
-<br>
 https://github.com/RiyaShenoy07/Simple-text-editor-using-React.git
 <br>
 cd Simple-text-editor-using-React
