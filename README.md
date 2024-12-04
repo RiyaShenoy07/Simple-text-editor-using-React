@@ -12,6 +12,7 @@ Great for beginners to practice basics of React.
 
 ## Technologies used
 -React JS v18.0
+<br>
 -Bootstrap v5.3.0
 
 ## Installation 
