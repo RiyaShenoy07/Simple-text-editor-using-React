@@ -16,8 +16,12 @@ Great for beginners to practice basics of React.
 -Bootstrap v5.3.0
 
 ## Installation 
-git clone
+git clone 
+<br>
 https://github.com/RiyaShenoy07/Simple-text-editor-using-React.git
+<br>
 cd Simple-text-editor-using-React
+<br>
 npm install  (install NodeJS latest version)
+<br>
 npm start
